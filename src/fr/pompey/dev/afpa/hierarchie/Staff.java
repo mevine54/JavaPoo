@@ -1,4 +1,4 @@
-package hierarchie;
+package fr.pompey.dev.afpa.hierarchie;
 
 public class Staff extends Person {
     private String school;

@@ -1,6 +1,6 @@
-package hierarchie;
+package fr.pompey.dev.afpa.hierarchie;
 
-public class testPerson {
+public class TestPerson {
     public static void main(String[] args) {
         // Création de l'objet Person
         Person aPerson = new Person("Mévine", "12 rue des champs");
